@@ -1,0 +1,42 @@
+    body {
+        background-color: aquamarine;
+    }
+    
+    #main {
+        padding: 15rem;
+    }
+    
+    .typed {
+        font: courier;
+    }
+    
+    .msg {
+        color: rgb(128, 27, 27);
+    }
+    
+    #nav {
+        color: whitesmokes;
+    }
+    
+    .name {
+        padding: 2rem;
+    }
+    
+    #name {
+        background-color: tomato;
+        border-radius: 1rem;
+    }
+    
+    .icons {
+        text-align: center;
+    }
+    
+    .connect {
+        text-align: center;
+    }
+    
+    #pic {
+        height: 8rem;
+        border: 2px solid white;
+        border-radius: 50%;
+    }
