@@ -15,5 +15,5 @@ function mail() {
 }
 
 function res() {
-    location.replace("resume.pdf")
+    location.replace("Resume-AbhishekPawar.pdf")
 }
